@@ -1,3 +1,5 @@
+options(warn=-1)
+
 library(readxl)
 library(knitr)
 library(dplyr)
