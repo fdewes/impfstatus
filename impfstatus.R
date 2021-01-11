@@ -1,5 +1,5 @@
 library(readxl)
-library(kable)
+library(knitr)
 library(dplyr)
 
 download.file("https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Impfquotenmonitoring.xlsx?__blob=publicationFile", "~/tmp.xlsx")
